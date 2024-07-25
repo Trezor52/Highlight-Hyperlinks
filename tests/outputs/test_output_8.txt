@@ -1,0 +1,6 @@
+<html>
+   <body>
+       <h1>Готовый текст </h1>
+        <p>Вот первый список: <a href ="https://wa.me/70897076578">70897076578</a>, <a href ="https://wa.me/78086546778">78086546778</a>, <a href ="https://wa.me/86067546456">86067546456</a>, проверим. <br> Вот второй список: <a href ="https://yandex.ru">yandex.ru</a>, [ya.rus], [yanyandexdexdex.ru], проверим и это. <br> Вот и последний список: <a href = mailto:teseus@mail.ru>teseus@mail.ru</a>, <a href = mailto:zeus@gmail.com>zeus@gmail.com</a>, <a href = mailto:aid@bing.com>aid@bing.com</a>, и конечно это проверим. <br>         </p>
+    </body>
+</html>

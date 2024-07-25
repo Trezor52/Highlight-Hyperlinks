@@ -1,0 +1,6 @@
+<html>
+   <body>
+       <h1>Готовый текст </h1>
+        <p>Не всегда видна ссылка <a href ="https://google.com">google.com</a> в поиске, видео лишь <a href = mailto:summer@mai.ru>summer@mai.ru</a> и 7903674534. <br> Сейчас можно писать так: [контекст.рф], <a href ="https://поддержка.рф">поддержка.рф</a>, [www.сайт.рф], в принципе всё. <br> А теперь можно так написать <a href = mailto:example@games.ru>example@games.ru</a>, <a href = mailto:exam@jail.net>exam@jail.net</a>, <a href = mailto:adr@yandex.ru>adr@yandex.ru</a>, вот так вот. <br>         </p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+<html>
+   <body>
+       <h1>Готовый текст </h1>
+        <p>People may access <a href ="https://wiki.com">wiki.com</a> to get info about everything. Some people call 911, some call me, <a href ="https://wa.me/89042838235">89042838235</a> or get me through, <a href = mailto:somemailaddress@gmail.com>somemailaddress@gmail.com</a> <br> Проверка <a href ="https://wa.me/связи88803462372">связи88803462372</a> с <a href ="https://facbok.com">facbok.com</a>, no answer, пишем на <a href = mailto:helpsupport@ea.com>helpsupport@ea.com</a> <br> Грамотно позвони на <a href ="https://wa.me/88008088080">88008088080</a> для получения адреса <a href = mailto:helphelp@friends.com>helphelp@friends.com</a>, а если не получится, то зайди на <a href ="https://droiders.com/">droiders.com/</a> и сам всё проверь <br>         </p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+<html>
+   <body>
+       <h1>Готовый текст </h1>
+        <p><a href ="https://wa.me/11234567890">11234567890</a> <a href ="https://example.com">example.com</a> Реклама и маркетинг <br> <a href ="https://wa.me/79991234567">79991234567</a> <a href ="https://www.example.net">www.example.net</a> Программирование и разработка <br> 505552233 [www.example.io/helloworld] Еврокомиссия и международные отношения <br>         </p>
+    </body>
+</html>
